@@ -1,0 +1,609 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tiled/levels/lvl25.tmx",
+    "expandedProjectPaths": [
+        "tiled/levels",
+        "tiled/levels_wip",
+        "tiled",
+        "tiled/tilesets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tiled/template.tmx": {
+            "scale": 14.43095238095238,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0,
+                "y": 10.532915360501567
+            }
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/background_blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/background_images.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/big_portal.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/buttons.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/chest.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/chest_platform.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/door.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/fan.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/foreground_blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/obstacles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/AppData/Local/Temp/Temp1_template.zip/tilesets/portal.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/Desktop/lvl99.tmx": {
+            "scale": 0.20809523809523808,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1042.7917620137298,
+                "y": 1713.157894736842
+            }
+        },
+        "C:/Users/Vladimir/Desktop/template.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1228,
+                "y": 1062
+            }
+        },
+        "C:/Users/Vladimir/tilesets/background_blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/background_images.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/big_portal.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/buttons.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/chest.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/chest_platform.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/door.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/fan.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/foreground_blocks.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/obstacles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Vladimir/tilesets/portal.tsx": {
+            "scaleInDock": 1
+        },
+        "tiled/levels/lvl.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 75.33333333333331,
+                "y": -106.66666666666666
+            }
+        },
+        "tiled/levels/lvl1.tmx": {
+            "scale": 2,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 176.5,
+                "y": 126
+            }
+        },
+        "tiled/levels/lvl10.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 608,
+                "y": 458
+            }
+        },
+        "tiled/levels/lvl11.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1666,
+                "y": 1664
+            }
+        },
+        "tiled/levels/lvl12.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1918,
+                "y": 1004
+            }
+        },
+        "tiled/levels/lvl13.tmx": {
+            "scale": 5.7904761904761894,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 109.83552631578948,
+                "y": 97.0559210526316
+            }
+        },
+        "tiled/levels/lvl14.tmx": {
+            "scale": 5.7904761904761894,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 109.83552631578948,
+                "y": 97.0559210526316
+            }
+        },
+        "tiled/levels/lvl15.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1117.3333333333333,
+                "y": 310.6666666666667
+            }
+        },
+        "tiled/levels/lvl16.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 2460,
+                "y": 1200
+            }
+        },
+        "tiled/levels/lvl17.tmx": {
+            "scale": 5.7904761904761894,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 109.83552631578948,
+                "y": 97.0559210526316
+            }
+        },
+        "tiled/levels/lvl18.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1973,
+                "y": 502
+            }
+        },
+        "tiled/levels/lvl19.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 887.8787878787878,
+                "y": 663.6363636363636
+            }
+        },
+        "tiled/levels/lvl2.tmx": {
+            "scale": 2,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 755.5,
+                "y": 308.5
+            }
+        },
+        "tiled/levels/lvl20.tmx": {
+            "scale": 1,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1098,
+                "y": 1152
+            }
+        },
+        "tiled/levels/lvl21.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1888,
+                "y": 640
+            }
+        },
+        "tiled/levels/lvl22.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 2472,
+                "y": 1780
+            }
+        },
+        "tiled/levels/lvl23.tmx": {
+            "scale": 5.7904761904761894,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 52.5,
+                "y": 63.034539473684234
+            }
+        },
+        "tiled/levels/lvl24.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2024,
+                "y": 1444
+            }
+        },
+        "tiled/levels/lvl25.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": -512,
+                "y": 760
+            }
+        },
+        "tiled/levels/lvl26.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 60,
+                "y": 46.54545454545455
+            }
+        },
+        "tiled/levels/lvl29.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 6080,
+                "y": 3168
+            }
+        },
+        "tiled/levels/lvl3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1210,
+                "y": 550.6666666666666
+            }
+        },
+        "tiled/levels/lvl4.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 2652,
+                "y": 1560
+            }
+        },
+        "tiled/levels/lvl5.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1330,
+                "y": 732
+            }
+        },
+        "tiled/levels/lvl54.tmx": {
+            "scale": 20.266666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0,
+                "y": 21.759868421052634
+            }
+        },
+        "tiled/levels/lvl56.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9.666666666666657,
+                "y": 6
+            }
+        },
+        "tiled/levels/lvl6.tmx": {
+            "scale": 2,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1637.5,
+                "y": 256
+            }
+        },
+        "tiled/levels/lvl66.tmx": {
+            "scale": 0.4053333333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1050.986842105263,
+                "y": 1050.9868421052631
+            }
+        },
+        "tiled/levels/lvl7.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 3393.939393939394,
+                "y": 1230.3030303030303
+            }
+        },
+        "tiled/levels/lvl8.tmx": {
+            "scale": 5.7904761904761894,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 109.83552631578948,
+                "y": 97.0559210526316
+            }
+        },
+        "tiled/levels/lvl9.tmx": {
+            "scale": 3,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1886,
+                "y": 506.66666666666663
+            }
+        },
+        "tiled/levels/lvl98.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2288,
+                "y": 472
+            }
+        },
+        "tiled/levels/lvl99.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6.333333333333343,
+                "y": 24.499999999999986
+            }
+        },
+        "tiled/levels/lvl_12.tmx": {
+            "scale": 0.6405714285714286,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 515.1650312221232,
+                "y": 526.092774308653
+            }
+        },
+        "tiled/levels/lvl_test.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1048,
+                "y": 72
+            }
+        },
+        "tiled/levels_wip/lvl1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 151.5,
+                "y": 57
+            }
+        },
+        "tiled/levels_wip/lvl1_old.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 436,
+                "y": 177.5
+            }
+        },
+        "tiled/levels_wip/lvl2.tmx": {
+            "scale": 1,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 638.5,
+                "y": 352
+            }
+        },
+        "tiled/levels_wip/lvl2_old.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 761.3333333333333,
+                "y": 158.33333333333331
+            }
+        },
+        "tiled/levels_wip/lvl3.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 185.5,
+                "y": 346
+            }
+        },
+        "tiled/levels_wip/lvl3_old.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 728,
+                "y": 520
+            }
+        },
+        "tiled/levels_wip/lvl4.tmx": {
+            "scale": 0.35026260504201684,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1428.9278752436644,
+                "y": 765.1402009296745
+            }
+        },
+        "tiled/levels_wip/lvlX_fans.tmx": {
+            "scale": 0.5539036544850497,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 615.63052931474,
+                "y": 292.46963562753047
+            }
+        },
+        "tiled/levels_wip/lvlX_portals.tmx": {
+            "scale": 0.4455952380952381,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1039.059577878707,
+                "y": 1092.920117552765
+            }
+        },
+        "tiled/template.tmx": {
+            "scale": 23.817857142857143,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0,
+                "y": 4.744339481181587
+            }
+        },
+        "tiled/tilesets/background_blocks.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3
+        },
+        "tiled/tilesets/background_images.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/big_portal.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/blocks.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "tiled/tilesets/buttons.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/chest.tsx": {
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/chest_platform.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/door.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/fan.tsx": {
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/foreground_blocks.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/obstacles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/portal.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/background_blocks.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/background_images.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/big_portal.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/blocks.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/buttons.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/chest.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/chest_platform.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/door.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/fan.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/foreground_blocks.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5
+        },
+        "tilesets/obstacles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "tilesets/portal.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tiled/levels_wip/lvl3_old.tmx",
+        "tiled/levels/lvl15.tmx",
+        "tiled/levels/lvl7.tmx",
+        "tiled/levels/lvl8.tmx",
+        "tiled/levels/lvl9.tmx",
+        "tiled/levels/lvl10.tmx",
+        "tiled/levels/lvl11.tmx",
+        "tiled/levels/lvl12.tmx",
+        "tiled/levels/lvl13.tmx",
+        "tiled/levels/lvl14.tmx",
+        "tiled/levels/lvl18.tmx",
+        "tiled/levels/lvl5.tmx",
+        "tiled/levels/lvl16.tmx",
+        "tiled/levels/lvl17.tmx",
+        "tiled/levels/lvl2.tmx",
+        "tiled/levels/lvl3.tmx",
+        "tiled/levels/lvl4.tmx",
+        "tiled/levels/lvl6.tmx",
+        "tiled/levels/lvl22.tmx",
+        "tiled/levels/lvl19.tmx",
+        "tiled/levels/lvl24.tmx",
+        "tiled/levels/lvl26.tmx",
+        "tiled/levels/lvl25.tmx"
+    ],
+    "project": "",
+    "property.type": "object",
+    "recentFiles": [
+        "tiled/levels_wip/lvl3_old.tmx",
+        "tiled/levels/lvl15.tmx",
+        "tiled/levels/lvl7.tmx",
+        "tiled/levels/lvl8.tmx",
+        "tiled/levels/lvl9.tmx",
+        "tiled/levels/lvl10.tmx",
+        "tiled/levels/lvl11.tmx",
+        "tiled/levels/lvl12.tmx",
+        "tiled/levels/lvl13.tmx",
+        "tiled/levels/lvl14.tmx",
+        "tiled/levels/lvl18.tmx",
+        "tiled/levels/lvl5.tmx"
+    ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="6" height="6" tilewidth="21" tileheight="21" infinite="0" nextlayerid="14" nextobjectid="13">
+ <tileset firstgid="1" source="../tilesets/background_images.tsx"/>
+ <tileset firstgid="2" source="../tilesets/background_blocks.tsx"/>
+ <tileset firstgid="27" source="../tilesets/blocks.tsx"/>
+ <tileset firstgid="127" source="../tilesets/foreground_blocks.tsx"/>
+ <tileset firstgid="327" source="../tilesets/door.tsx"/>
+ <tileset firstgid="332" source="../tilesets/obstacles.tsx"/>
+ <tileset firstgid="335" source="../tilesets/fan.tsx"/>
+ <tileset firstgid="337" source="../tilesets/big_portal.tsx"/>
+ <tileset firstgid="345" source="../tilesets/portal.tsx"/>
+ <tileset firstgid="351" source="../tilesets/buttons.tsx"/>
+ <tileset firstgid="355" source="../tilesets/chest_platform.tsx"/>
+ <tileset firstgid="357" source="../tilesets/chest.tsx"/>
+ <objectgroup id="1" name="background_images"/>
+ <layer id="2" name="background_blocks" width="6" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <objectgroup draworder="index" id="3" name="doors"/>
+ <objectgroup id="4" name="saws"/>
+ <objectgroup id="5" name="spikes"/>
+ <layer id="6" name="blocks" width="6" height="6">
+  <data encoding="base64">
+   HwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAAAAAAAAAAAAAAAAAAAAAAAfAAAAHwAAAAAAAAAAAAAAAAAAAAAAAAAfAAAAHwAAAAAAAAAAAAAAAAAAAAAAAAAfAAAAHwAAAAAAAAAAAAAAAAAAAAAAAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAA
+  </data>
+ </layer>
+ <objectgroup id="7" name="lasers"/>
+ <objectgroup id="8" name="fans"/>
+ <objectgroup id="9" name="big_portals">
+  <object id="11" gid="337" x="21" y="105" width="29" height="84"/>
+  <object id="12" gid="339" x="76" y="105" width="29" height="84"/>
+ </objectgroup>
+ <objectgroup id="10" name="portals"/>
+ <objectgroup id="11" name="buttons"/>
+ <objectgroup id="12" name="chest_platforms"/>
+ <objectgroup id="13" name="chests"/>
+ <layer id="14" name="foreground_blocks" width="6" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,104 @@
+
+sheet_loading.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+loading
+  rotate: false
+  xy: 77, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 10
+loading
+  rotate: false
+  xy: 105, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 11
+loading
+  rotate: false
+  xy: 133, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 0
+loading
+  rotate: false
+  xy: 161, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 1
+loading
+  rotate: false
+  xy: 189, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 2
+loading
+  rotate: false
+  xy: 217, 34
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 3
+loading
+  rotate: false
+  xy: 77, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 4
+loading
+  rotate: false
+  xy: 105, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 5
+loading
+  rotate: false
+  xy: 133, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 6
+loading
+  rotate: false
+  xy: 161, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 7
+loading
+  rotate: false
+  xy: 189, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 8
+loading
+  rotate: false
+  xy: 217, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 9
+loading_word
+  rotate: false
+  xy: 1, 1
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+unja_logo
+  rotate: false
+  xy: 1, 14
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1

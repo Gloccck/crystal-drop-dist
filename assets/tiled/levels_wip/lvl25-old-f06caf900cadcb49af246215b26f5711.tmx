@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="113" height="49" tilewidth="21" tileheight="21" infinite="0" nextlayerid="14" nextobjectid="57">
+ <tileset firstgid="1" source="../tilesets/background_images.tsx"/>
+ <tileset firstgid="2" source="../tilesets/background_blocks.tsx"/>
+ <tileset firstgid="27" source="../tilesets/blocks.tsx"/>
+ <tileset firstgid="127" source="../tilesets/foreground_blocks.tsx"/>
+ <tileset firstgid="327" source="../tilesets/door.tsx"/>
+ <tileset firstgid="332" source="../tilesets/obstacles.tsx"/>
+ <tileset firstgid="335" source="../tilesets/fan.tsx"/>
+ <tileset firstgid="337" source="../tilesets/big_portal.tsx"/>
+ <tileset firstgid="345" source="../tilesets/portal.tsx"/>
+ <tileset firstgid="351" source="../tilesets/buttons.tsx"/>
+ <tileset firstgid="355" source="../tilesets/chest_platform.tsx"/>
+ <tileset firstgid="357" source="../tilesets/chest.tsx"/>
+ <objectgroup id="1" name="background_images"/>
+ <layer id="2" name="background_blocks" width="113" height="49">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJADAMgMA8sv/MXaIoSIQbwJ2ZPV/R2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbR2b9FdPZvEZ39W0Rn/xbRPd4GQRU=
+  </data>
+ </layer>
+ <objectgroup draworder="index" id="3" name="doors">
+  <object id="25" gid="329" x="945" y="315" width="21" height="47"/>
+  <object id="26" gid="327" x="945" y="278" width="21" height="47"/>
+ </objectgroup>
+ <objectgroup id="4" name="saws">
+  <object id="55" gid="333" x="1088" y="841" width="72" height="72"/>
+ </objectgroup>
+ <objectgroup id="5" name="spikes">
+  <object id="28" gid="1073742158" x="1008" y="126" width="21" height="21"/>
+  <object id="29" gid="1073742158" x="1029" y="126" width="21" height="21"/>
+  <object id="30" gid="1073742158" x="1050" y="126" width="21" height="21"/>
+  <object id="31" gid="1073742158" x="1071" y="126" width="21" height="21"/>
+  <object id="32" gid="1073742158" x="1092" y="126" width="21" height="21"/>
+  <object id="33" gid="1073742158" x="1113" y="147" width="21" height="21"/>
+  <object id="34" gid="1073742158" x="1134" y="147" width="21" height="21"/>
+  <object id="35" gid="1073742158" x="987" y="147" width="21" height="21"/>
+  <object id="45" gid="334" x="1281" y="294" width="21" height="21"/>
+  <object id="46" gid="334" x="1260" y="273" width="21" height="21"/>
+  <object id="48" gid="1073742158" x="1176" y="525" width="21" height="21"/>
+  <object id="49" gid="1073742158" x="1155" y="546" width="21" height="21"/>
+ </objectgroup>
+ <layer id="6" name="blocks" width="113" height="49">
+  <data encoding="base64" compression="zlib">
+   eJztm01qAzEMhX2QQHbZltJ975DVUOgqlN7/CMUQg2v8I8my9Sb2A0GLx/EbfZHHM+NcnXNXQliL4nFmIOkMnq15oeUjFbpna1Zo+cgJ1TPF04143GY41/MsBj+d/ZGE5Fkrl0fUfouOOzLtm6GNFx9vhM8LrFrtm+FcHxyGVHmW3GsrklA8cxm+K44tqUckWXvm5i6sRTTr0IvLEUlWnqXXoVF+NkPdsXIhrbujfcieSxXH0OaXGzuo9/4CSSM997LTZPjt/p9LYPgQekKStmctbr0cNe7jV2M4Ml9cP6P5nZUhWpTqUnK/vhnaROkef9b4SLJmIYmwPskpzKO1Ot0MMeKzcD5fz/ZSnd6f7dL16Csw7H3vphWUOmu1r8ow9x2fsQ6kMgx1VqpTr1CrKzKsvSuw4EjxkGO96jvgFkOvmRxzXtJjwrw/wiuStPjF4j7Hivu04uLK82hujmx5XIWh5H0rNUelPq21U85T3L/1bK73moikUQy9Why5fXLtpXMZPe8jaSTDoJCvuLaofXLHlvY6xX0ong8nv1dCEtWzFket8085pnXF2fe2CsMW03Tv5mz561u6hqJIyhFJEv+5XNWuUzOUrlFq9/ixVmVYiouzO0fJXOolXZ8iSZOhVgR5Lo/k/7S99BnUOvTyHFfYI6wdkve0nD6cvRur7Gs7Y3DFYYkk6zyPjJH7qJBknWeLqEnyjNBaCN+7Xiat6+QH8VxevQ5RfPioPR+rfWZtbt2/t5jrRfs3T5yxN8N+PyP4UcbdDPU8Wf/ucDPs96TFcLX3hxaeub7uxL/T/r+MsTZDXW+XRvvoQBK6Z0tOiPnI6QyerXmh5SPVWTxbM0PLR6wzebbmhpaPoD/e1EHt
+  </data>
+ </layer>
+ <objectgroup id="7" name="lasers"/>
+ <objectgroup id="8" name="fans">
+  <object id="11" gid="335" x="471" y="630" width="30" height="42" rotation="180"/>
+  <object id="12" gid="335" x="1011" y="663" width="30" height="42" rotation="90"/>
+  <object id="15" gid="335" x="1167" y="294" width="30" height="42"/>
+  <object id="38" gid="335" x="1239" y="387" width="30" height="42" rotation="-90"/>
+  <object id="39" gid="335" x="1377" y="861" width="30" height="42"/>
+ </objectgroup>
+ <objectgroup id="9" name="big_portals">
+  <object id="13" gid="337" x="252" y="609" width="29" height="84"/>
+  <object id="14" gid="339" x="1315" y="252" width="29" height="84"/>
+ </objectgroup>
+ <objectgroup id="10" name="portals">
+  <object id="16" gid="347" x="909" y="294" width="17" height="42">
+   <properties>
+    <property name="out" type="object" value="18"/>
+   </properties>
+  </object>
+  <object id="18" gid="347" x="1157" y="441" width="17" height="42">
+   <properties>
+    <property name="out" type="object" value="16"/>
+   </properties>
+  </object>
+  <object id="54" gid="347" x="973" y="888" width="17" height="42">
+   <properties>
+    <property name="out" type="object" value="16"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="11" name="buttons">
+  <object id="19" gid="351" x="1256" y="171" width="23" height="26"/>
+  <object id="47" gid="351" x="1370" y="789" width="23" height="26"/>
+ </objectgroup>
+ <objectgroup id="12" name="chest_platforms">
+  <object id="27" gid="355" x="1208" y="252" width="23" height="9">
+   <properties>
+    <property name="target[0]" type="object" value="26"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="13" name="chests">
+  <object id="23" gid="357" x="1208" y="243" width="25" height="22"/>
+  <object id="36" gid="357" x="871" y="693" width="25" height="22"/>
+  <object id="37" gid="357" x="955" y="693" width="25" height="22"/>
+  <object id="40" gid="357" x="1186" y="756" width="25" height="22"/>
+  <object id="41" gid="357" x="1211" y="756" width="25" height="22"/>
+  <object id="43" gid="357" x="325" y="630" width="25" height="22"/>
+  <object id="44" gid="357" x="377" y="609" width="25" height="22"/>
+  <object id="50" gid="357" x="1207" y="924" width="25" height="22"/>
+  <object id="51" gid="357" x="1144" y="924" width="25" height="22"/>
+  <object id="52" gid="357" x="1081" y="924" width="25" height="22"/>
+  <object id="53" gid="357" x="1018" y="924" width="25" height="22"/>
+  <object id="56" gid="357" x="787" y="693" width="25" height="22"/>
+ </objectgroup>
+ <layer id="14" name="foreground_blocks" width="113" height="49">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACAQwLBb3r0dQX1JIYFO0DUz6xB/nL68xB8e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Gfh30e9nnY52Hf7Z8NTXPjvw==
+  </data>
+ </layer>
+</map>

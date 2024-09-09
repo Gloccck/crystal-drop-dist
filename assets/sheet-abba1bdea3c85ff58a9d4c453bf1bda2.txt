@@ -1,0 +1,237 @@
+
+sheet.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bat/bat_damaged
+  rotate: false
+  xy: 37, 4
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+bat/bat_death
+  rotate: false
+  xy: 156, 40
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: 0
+bat/bat_death
+  rotate: false
+  xy: 244, 32
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: 1
+bat/bat_death
+  rotate: false
+  xy: 332, 32
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: 2
+bat/bat_fall
+  rotate: false
+  xy: 456, 77
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+bat/bat_fly
+  rotate: false
+  xy: 1, 1
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: 1
+bat/bat_fly
+  rotate: false
+  xy: 420, 65
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: 2
+bat/bat_fly
+  rotate: false
+  xy: 420, 35
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: 0
+crystal/crystal
+  rotate: false
+  xy: 76, 14
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+crystal/crystal_crush
+  rotate: false
+  xy: 283, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 0
+crystal/crystal_crush
+  rotate: false
+  xy: 382, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 2
+crystal/crystal_crush
+  rotate: false
+  xy: 481, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 3
+crystal/crystal_crush
+  rotate: false
+  xy: 580, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 4
+crystal/crystal_crush
+  rotate: false
+  xy: 679, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 5
+crystal/crystal_crush
+  rotate: false
+  xy: 778, 97
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: 1
+gui/button_default_down
+  rotate: false
+  xy: 1014, 142
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_default_up
+  rotate: false
+  xy: 1017, 212
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_disabled
+  rotate: false
+  xy: 1014, 212
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_gold_down
+  rotate: false
+  xy: 1014, 177
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_gold_up
+  rotate: false
+  xy: 456, 42
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_green_down
+  rotate: false
+  xy: 459, 42
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/button_green_up
+  rotate: false
+  xy: 1017, 177
+  size: 1, 33
+  orig: 1, 33
+  offset: 0, 0
+  index: -1
+gui/game_over
+  rotate: false
+  xy: 1, 33
+  size: 153, 70
+  orig: 153, 70
+  offset: 0, 0
+  index: -1
+gui/hud_crystal
+  rotate: false
+  xy: 1014, 130
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+gui/hud_heart
+  rotate: false
+  xy: 499, 85
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+gui/hud_portal
+  rotate: false
+  xy: 462, 65
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: 1
+gui/hud_portal
+  rotate: false
+  xy: 89, 21
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: 0
+gui/level_complete_gold
+  rotate: false
+  xy: 1, 176
+  size: 280, 69
+  orig: 280, 69
+  offset: 0, 0
+  index: -1
+gui/level_complete_green
+  rotate: false
+  xy: 1, 105
+  size: 280, 69
+  orig: 280, 69
+  offset: 0, 0
+  index: -1
+gui/level_transition_left
+  rotate: false
+  xy: 877, 25
+  size: 72, 220
+  orig: 72, 220
+  offset: 0, 0
+  index: -1
+gui/level_transition_right
+  rotate: false
+  xy: 951, 25
+  size: 61, 220
+  orig: 61, 220
+  offset: 0, 0
+  index: -1
+gui/scrollbar_knob
+  rotate: false
+  xy: 156, 37
+  size: 19, 1
+  orig: 19, 1
+  offset: 0, 0
+  index: -1
+gui/scrollbar_line
+  rotate: false
+  xy: 244, 102
+  size: 19, 1
+  orig: 19, 1
+  offset: 0, 0
+  index: -1

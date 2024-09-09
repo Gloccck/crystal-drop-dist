@@ -1,0 +1,305 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "levels/lvl1.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 0.125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 248,
+                "y": -576
+            }
+        },
+        "levels/lvl10.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl11.tmx": {
+            "scale": 0.37835497835497833,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1123.283752860412,
+                "y": 1271.2929061784898
+            }
+        },
+        "levels/lvl12.tmx": {
+            "scale": 4,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 889.25,
+                "y": 670.25
+            }
+        },
+        "levels/lvl13.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl14.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl15.tmx": {
+            "scale": 0.3753086419753086,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1135.0657894736844,
+                "y": 178.5197368421052
+            }
+        },
+        "levels/lvl16.tmx": {
+            "scale": 0.3094147582697201,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1376.7927631578946,
+                "y": 410.45230263157896
+            }
+        },
+        "levels/lvl17.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl18.tmx": {
+            "expandedObjectLayers": [
+                11,
+                3
+            ],
+            "scale": 4,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1090.25,
+                "y": 250.25
+            }
+        },
+        "levels/lvl19.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl2.tmx": {
+            "scale": 0.6870056497175141,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 620.0822368421053,
+                "y": 209.6052631578948
+            }
+        },
+        "levels/lvl20.tmx": {
+            "scale": 0.2427145708582834,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1755.1480263157898,
+                "y": 968.2154605263158
+            }
+        },
+        "levels/lvl21.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl22.tmx": {
+            "scale": 0.3546666666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 403.1954887218044,
+                "y": 1240.6015037593986
+            }
+        },
+        "levels/lvl23.tmx": {
+            "scale": 5.9111111111111105,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.1015037593985,
+                "y": 63.10150375939851
+            }
+        },
+        "levels/lvl24.tmx": {
+            "scale": 0.2874704491725768,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1481.891447368421,
+                "y": 1050.5427631578948
+            }
+        },
+        "levels/lvl25.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1060,
+                "y": 806.6666666666665
+            }
+        },
+        "levels/lvl26.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -217,
+                "y": -11
+            }
+        },
+        "levels/lvl27.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2900,
+                "y": 712
+            }
+        },
+        "levels/lvl3.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 5.5,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1039.8181818181818,
+                "y": 435.6363636363637
+            }
+        },
+        "levels/lvl4.tmx": {
+            "scale": 0.27203579418344515,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1565.9703947368423,
+                "y": 768.28125
+            }
+        },
+        "levels/lvl5.tmx": {
+            "scale": 0.5404444444444444,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 788.2401315789474,
+                "y": 336.7598684210526
+            }
+        },
+        "levels/lvl6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 757.3333333333333,
+                "y": 202
+            }
+        },
+        "levels/lvl66.tmx": {
+            "scale": 0.3546666666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1051.6917293233082,
+                "y": 1051.6917293233082
+            }
+        },
+        "levels/lvl7.tmx": {
+            "scale": 0.16666666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2574,
+                "y": 630
+            }
+        },
+        "levels/lvl8.tmx": {
+            "scale": 6.755555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 63.059210526315795,
+                "y": 63.059210526315795
+            }
+        },
+        "levels/lvl9.tmx": {
+            "scale": 0.23703703703703702,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1797.1875,
+                "y": 442.96875
+            }
+        },
+        "levels_wip/lvl1_old.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 489,
+                "y": 310.5
+            }
+        },
+        "levels_wip/lvl25-old.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1130,
+                "y": 633
+            }
+        },
+        "levels_wip/lvl3_old.tmx": {
+            "scale": 0.5373552123552123,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 722.054966768457,
+                "y": 226.10741871744204
+            }
+        },
+        "levels_wip/lvlX_portals.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 288,
+                "y": 993.3333333333333
+            }
+        },
+        "tilesets/background_blocks.tsx": {
+            "dynamicWrapping": false
+        },
+        "tilesets/background_images.tsx": {
+            "dynamicWrapping": true
+        },
+        "tilesets/buttons.tsx": {
+            "scaleInEditor": 1
+        },
+        "tilesets/foreground_blocks.tsx": {
+            "dynamicWrapping": false
+        },
+        "tilesets/obstacles.tsx": {
+            "dynamicWrapping": true
+        },
+        "tilesets/portal.tsx": {
+            "dynamicWrapping": false
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "crystal-drop.tiled-project",
+    "recentFiles": [
+        "levels/lvl1.tmx",
+        "levels/lvl3.tmx",
+        "levels_wip/lvl25-old.tmx",
+        "levels/lvl6.tmx",
+        "tilesets/buttons.tsx",
+        "levels/lvl25.tmx",
+        "levels/lvl26.tmx",
+        "levels/lvl66.tmx",
+        "levels/lvl22.tmx"
+    ]
+}
