@@ -16,7 +16,22 @@ t:sheet.txt:sheet-abba1bdea3c85ff58a9d4c453bf1bda2.txt:3795:text/plain:1
 i:sheet_loading.png:sheet_loading-402f53ea52b5373bfc4e084f0c844c89.png:683:image/png:1
 t:sheet_loading.txt:sheet_loading-cbf61ce1008adc974348888272c4f574.txt:1400:text/plain:1
 d:sounds:sounds:0:application/unknown:1
+a:sounds/button_click.mp3:sounds/button_click-69958047e76973a8bdc3fd9e25fca00e.mp3:41935:audio/mpeg:1
+a:sounds/chain_saw.mp3:sounds/chain_saw-d8699549888a5156cd984516d9867a83.mp3:5886284:audio/mpeg:1
+a:sounds/chest_closing.mp3:sounds/chest_closing-c8b0b5ec6037d02d46ae9aa82815c75b.mp3:67916:audio/mpeg:1
+a:sounds/crystal_drop.mp3:sounds/crystal_drop-874389e2ad91804937585a981aaacdfa.mp3:7701:audio/mpeg:1
+a:sounds/crystal_in.mp3:sounds/crystal_in-b4c7a155948ba2e7b00c3684d416efc6.mp3:30717:audio/mpeg:1
+a:sounds/death.mp3:sounds/death-6684948e05adeada06baf84484aec454.mp3:39076:audio/mpeg:1
+a:sounds/game_over.mp3:sounds/game_over-06d2f6e6d4d948404de68c3cd5c586f5.mp3:23612:audio/mpeg:1
+a:sounds/hit_wall.mp3:sounds/hit_wall-5cad64035680ec3c293685dcba9fef3a.mp3:21873:audio/mpeg:1
+a:sounds/laser_hit.mp3:sounds/laser_hit-fcd04f7bfe8e15c05fed1ab1e823c2ca.mp3:37822:audio/mpeg:1
+a:sounds/laser_iddle.mp3:sounds/laser_iddle-2bfabc80d514958ce8c750ef79e1f536.mp3:37325:audio/mpeg:1
+a:sounds/level complete.mp3:sounds/level complete-4f2db58445d87b97363428cc19ca5d5c.mp3:85598:audio/mpeg:1
+a:sounds/metal_door.mp3:sounds/metal_door-6d652f500677d144e1e5e02c05b1bfdc.mp3:43606:audio/mpeg:1
 a:sounds/music.wav:sounds/music-7e5722d4afb3231231e5101e345ec660.wav:2265902:audio/x-wav:1
+a:sounds/portal.mp3:sounds/portal-f3965f71891b17714aa5e1a4749c763b.mp3:20605:audio/mpeg:1
+a:sounds/spike_hit.mp3:sounds/spike_hit-a119214a3e7a97fefa26ee2f5f09226d.mp3:20619:audio/mpeg:1
+a:sounds/wings.mp3:sounds/wings-a5fd67edb8b579670a82c9de1c6176a6.mp3:18111:audio/mpeg:1
 d:textures:textures:0:application/unknown:1
 d:textures/background:textures/background:0:application/unknown:1
 i:textures/background/background.png:textures/background/background-3bc903af41d818b5febd9f5d82889fd8.png:2368:image/png:1
