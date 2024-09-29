@@ -52,8 +52,8 @@
   <object id="71" gid="1073742159" x="2352" y="231" width="21" height="21"/>
  </objectgroup>
  <objectgroup id="15" name="misc">
-  <object id="77" gid="1" x="607" y="516" width="57" height="23" rotation="56"/>
-  <object id="78" gid="1" x="2160" y="413" width="57" height="23" rotation="51"/>
+  <object id="77" gid="2" x="607" y="516" width="57" height="23" rotation="56"/>
+  <object id="78" gid="2" x="2160" y="413" width="57" height="23" rotation="51"/>
  </objectgroup>
  <layer id="6" name="blocks" width="245" height="60">
   <data encoding="base64">
